@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KroLik99
-- 👀 I’m interested in webdevelopment.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
