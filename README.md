@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KroLik99
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, UiPath, Ruby On Rails, C#.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
